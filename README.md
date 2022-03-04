@@ -57,4 +57,4 @@
 </a>
 </p>
 
-
+![Snake animation](https://github.com/pabloalmeidac/pabloalmeidac/blob/output/github-contribution-grid-snake.svg)
