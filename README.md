@@ -40,8 +40,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pabloalmeidac&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="pabloalmeidac stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalmeidac&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloalmeidac stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pabloalmeidac&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="pabloalmeidac stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalmeidac&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloalmeidac stats"/>
 </div>
 
 <br><br>
