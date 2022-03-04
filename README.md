@@ -39,7 +39,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center" style="display: inline">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloalmeidac&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="pabloalmeidac stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalmeidac&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="pabloalmeidac stats"/>
 </div>
@@ -59,7 +59,7 @@
   </a>
 </div>
   
-<div align="center">
+<div align="left">
   
   ![snake animation](https://github.com/pabloalmeidac/pabloalmeidac/blob/output/github-contribution-grid-snake.svg)
  
