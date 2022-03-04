@@ -15,7 +15,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias e Ferramentas
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -39,22 +39,32 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pabloalmeidac&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalmeidac&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+<div align="center">
+  <a href="https://github.com/pabloalmeidac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloalmeidac&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloalmeidac&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;Mídias sociais
+<div align="left">
+  <a href="https://linkedin.com/in/pabloalmeidac" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-pabloalmeidac-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/pabloalmeidac" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-pabloalmeidac-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+   <a href="mailto:pabloalmeidacti@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-pabloalmeidacti-05122A?style=flat&logo=gmail" alt="gmail"/>
+  </a>
+</div>
+  
+<div align="center">
+  
+  ![snake animation](https://github.com/pabloalmeidac/pabloalmeidac/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
 
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/pabloalmeidac" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pabloalmeidac-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/pabloalmeidac" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pabloalmeidac-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
-![snake gif](https://github.com/pabloalmeidac/pabloalmeidac/blob/output/github-contribution-grid-snake.gif)
