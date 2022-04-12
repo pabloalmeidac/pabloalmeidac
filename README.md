@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estudando Nodejs
 
-- 👨‍💻 Meus projetos estão disponiveis aqui [pabloalmeidac.github.io](https://pabloalmeidac.github.io/)
+- 👨‍💻 Meus projetos estão disponiveis aqui [pabloalmeidac.github.io](https://pabloalmeidac.github.io/) (site em construção)
 
 - 💬 Pergunte-me sobre **JavaScript, React, HTML, CSS, SQL, Node.JS**
 
