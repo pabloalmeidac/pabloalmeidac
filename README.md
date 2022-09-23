@@ -3,10 +3,6 @@
 
 - 🔥 Estudante de desenvolvimento web na [trybe](https://www.betrybe.com/)
 
-- 🌱 Atualmente estudando Nodejs
-
-- 👨‍💻 Meus projetos estão disponiveis aqui [pabloalmeidac.github.io](https://pabloalmeidac.github.io/) (site em construção)
-
 - 💬 Pergunte-me sobre **JavaScript, React, HTML, CSS, SQL, Node.JS**
 
 - 🔭 Estou disponível para trabalho.
