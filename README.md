@@ -1,15 +1,19 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Pablo Almeida</h1>
+Sou formado em analise e desenvolvimento de sistemas e faço Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma.<br>
+
+Desde pequeno sempre fui apaixonado por tecnologia, jogos e series.<br>
+
+Sou uma pessoa dedicada, calmo, sempre que me deparo com um bug ou algo a ser resolvido, procuro sempre resolver da melhor forma 🔨
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabloalmeidac&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Estudante de desenvolvimento web na [trybe](https://www.betrybe.com/)
+- 🔥 Desenvolvedor Web FullStack
 
-- 💬 Pergunte-me sobre **JavaScript, React, HTML, CSS, SQL, Node.JS**
+- 🌱 Atualmente estudando testes
 
 - 🔭 Estou disponível para trabalho.
 
 - 👨‍💻 Meu portfolio [pabloalmeidac.github.io](https://pabloalmeidac.github.io/)
-
-- 📬 Para entrar em contato comigo, por favor, envie um email para `pabloalmeidacti@gmail.com` ou me chama no [Linkedin](https://www.linkedin.com/in/pabloalmeidac/)
 
 <br><br>
 
