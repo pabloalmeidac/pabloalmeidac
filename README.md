@@ -7,6 +7,8 @@
 
 - 🔭 Estou disponível para trabalho.
 
+- 👨‍💻 Meu portfolio [pabloalmeidac.github.io](https://pabloalmeidac.github.io/)
+
 - 📬 Para entrar em contato comigo, por favor, envie um email para `pabloalmeidacti@gmail.com` ou me chama no [Linkedin](https://www.linkedin.com/in/pabloalmeidac/)
 
 <br><br>
