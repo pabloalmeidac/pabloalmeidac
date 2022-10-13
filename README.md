@@ -9,7 +9,7 @@ Sou uma pessoa dedicada, calmo, sempre que me deparo com um bug ou algo a ser re
 
 - 🔥 Desenvolvedor Web FullStack
 
-- 🌱 Atualmente estudando testes
+- 🧠 Atualmente estudando testes
 
 - 🔭 Estou disponível para trabalho.
 
